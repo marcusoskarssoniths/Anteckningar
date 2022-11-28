@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/anteckningar/css-block-och-inline-element-div-och-span/"}
 ---
 
-# Kurs: [[Anteckningar/HTML & CSS introduktion\|HTML & CSS introduktion]]
+# Kurs: [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
 # Föreläsning 3 om CSS block- och inline-element, div och span [[2022-08-30\|2022-08-30]]
 ---
 ## Block- och inline-element
