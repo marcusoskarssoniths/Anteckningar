@@ -3,7 +3,7 @@
 ---
 
 
-# Kurs: [[Anteckningar/HTML & CSS introduktion\|HTML & CSS introduktion]]
+# Kurs: [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
 # Föreläsning 8 om Publicering och code-tips [[2022-09-09\|2022-09-09]]
 ---
 
