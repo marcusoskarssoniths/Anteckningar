@@ -11,8 +11,11 @@
 | [[Anteckningar/Personas och behavioural archetype\|Personas och behavioural archetype]] | \-             | 2022-11-28 |
 
 
+## Länkar
+[Steve Krug](https://sensible.com) - Checklists, “Things a therapist would say” m.m.
 
 ## Projekt
+[dyod - se live](http://studentiths.se/marcus-oskarsson/hackaton/)
 
 ## Reflektioner
 ### Vad kan jag?
