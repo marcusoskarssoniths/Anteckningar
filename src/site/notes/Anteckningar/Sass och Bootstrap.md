@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/anteckningar/sass-och-bootstrap/"}
 ---
 
-# Kurs: [[Anteckningar/HTML & CSS introduktion\|HTML & CSS introduktion]]
+# Kurs: [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
 # Föreläsning 11 om Sass och Bootstrap [[2022-09-19\|2022-09-19]]
 ---
 
