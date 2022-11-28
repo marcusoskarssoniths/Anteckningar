@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/anteckningar/grundlaeggande-tillgaenglighet/"}
 ---
 
-# Kurs: [[Anteckningar/HTML & CSS introduktion\|HTML & CSS introduktion]]
+# Kurs: [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
 # Föreläsning 9 om Grundläggande tillgänglighet [[2022-09-14\|2022-09-14]]
 ---
 
