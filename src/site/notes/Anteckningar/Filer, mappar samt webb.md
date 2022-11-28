@@ -3,7 +3,7 @@
 ---
 
 #behöver-arbete 
-# Kurs: [[Anteckningar/HTML & CSS introduktion\|HTML & CSS introduktion]]
+# Kurs: [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
 # Föreläsning 1 om Filer, mappar samt webb [[2022-08-25\|2022-08-25]]
 ---
 ## Kursinnehåll
