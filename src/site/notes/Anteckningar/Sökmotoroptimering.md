@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/anteckningar/soekmotoroptimering/"}
 ---
 
-# Kurs: [[Anteckningar/HTML & CSS introduktion\|HTML & CSS introduktion]]
+# Kurs: [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
 # Föreläsning 10 om Sökmotoroptimering [[2022-09-15\|2022-09-15]]
 ---
 ## Sökmotoroptimering
