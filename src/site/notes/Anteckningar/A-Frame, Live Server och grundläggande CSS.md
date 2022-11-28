@@ -3,7 +3,7 @@
 ---
 
 
-# Kurs: [[Anteckningar/HTML & CSS introduktion\|HTML & CSS introduktion]]
+# Kurs: [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
 # Föreläsning 2 om A-Frame, Live Server och grundläggande CSS [[2022-08-29\|2022-08-29]]
 ---
 # A-Frame
