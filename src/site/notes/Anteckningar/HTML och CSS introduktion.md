@@ -48,7 +48,7 @@
 [Git](https://git-scm.com/doc)
 
 ## Projekt
-[Slutprojekt - se live](http://studentiths.se/marcus-oskarsson/)
+[Slutprojekt - se live](http://studentiths.se/marcus-oskarsson/html-css/)
 [Github](https://github.com/Marcus-Oskarsson/it-hogskolan-html-css-projekt)
 
 ## Reflektioner
