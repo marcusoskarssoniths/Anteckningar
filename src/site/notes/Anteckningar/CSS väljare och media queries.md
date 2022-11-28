@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/anteckningar/css-vaeljare-och-media-queries/"}
 ---
 
-# Kurs: [[Anteckningar/HTML & CSS introduktion\|HTML & CSS introduktion]]
+# Kurs: [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
 # Föreläsning 5 om CSS väljare och media queries [[2022-09-05\|2022-09-05]]
 ---
 ## Live kod
