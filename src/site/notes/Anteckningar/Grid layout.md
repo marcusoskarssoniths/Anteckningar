@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/anteckningar/grid-layout/"}
 ---
 
-# Kurs: [[Anteckningar/HTML & CSS introduktion\|HTML & CSS introduktion]]
+# Kurs: [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
 # Föreläsning 6 om Grid layout [[2022-09-06\|2022-09-06]]
 ---
 ## Grid layout
