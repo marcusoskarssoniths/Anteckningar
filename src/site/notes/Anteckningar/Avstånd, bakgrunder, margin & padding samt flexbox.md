@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/anteckningar/avstand-bakgrunder-margin-and-padding-samt-flexbox/"}
 ---
 
-# Kurs: [[Anteckningar/HTML & CSS introduktion\|HTML & CSS introduktion]]
+# Kurs: [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
 # Föreläsning 4 om Avstånd, bakgrunder samt flexbox [[2022-09-01\|2022-09-01]]
 ---
 ## Avstånd
