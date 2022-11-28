@@ -16,24 +16,4 @@ Vi kommer att ladda upp våra projekt till en server med FTP, och skapa vår ege
 Alla datorer som är uppkopplade på ett nätverk har en ip-adress och det är via den som det går att hitta din dator (servrar o.s.v.). 
 
 ## Code-tips
-
-<div class="transclusion internal-embed is-loaded"><div class="markdown-embed">
-
-
-
-### VS Code
-- Skapa en fil
-*Ctrl* + *N*
-- Spara en fil
-*Ctrl* + *S*
-- Öppna en fil
-*Ctrl* + *O*
-- Öppna en mapp
-*Ctrl* + *K* $\to$ *Ctrl* + *O*
-- Öppna inställningarna
-*Ctrl* + *,*
-- Se senaste mapparna jag använt
-*Ctrl* + *R*
-
-
-</div></div>
+[[Anteckningar/Kortkommandon\|Kortkommandon]]
