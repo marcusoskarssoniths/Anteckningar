@@ -9,4 +9,4 @@
 
 ## Avslutade kurser
 [[Anteckningar/JavaScript introduktion\|JavaScript introduktion]]
-[[Anteckningar/HTML & CSS introduktion\|HTML & CSS introduktion]]
+[[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
