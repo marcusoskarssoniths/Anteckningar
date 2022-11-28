@@ -2,7 +2,7 @@
 {"dg-publish":true,"permalink":"/anteckningar/formulaer-kodkonventioner-och-html-5/"}
 ---
 
-# Kurs: [[Anteckningar/HTML & CSS introduktion\|HTML & CSS introduktion]]
+# Kurs: [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
 # Föreläsning 7 om Formulär, kodkonventioner och HTML5 [[2022-09-08\|2022-09-08]]
 ---
 
