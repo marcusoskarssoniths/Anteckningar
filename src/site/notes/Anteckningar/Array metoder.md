@@ -52,15 +52,16 @@ let arr2 = arr.splice(1) // [2, 3]
 
 
 
-#### Snyggt sätt för att kapa bort två första värdena från flera arrayer
+#### Snyggt sätt för att kapa bort två första värdena från en array
 ```js
 function foo( x, y, ...args ) {
 	return args
 }
 let a = [0, 1, 2]
 let b = [3, 4, 5]
-console.log(foo( ...a, ...b ))
+console.log(foo( ...a, ...b )) // [2, 3, 4, 5]
 ```
+
 
 </div></div>
 
