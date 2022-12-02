@@ -9,7 +9,7 @@
 | ------------------------------------------------------------------------------------------ | -------------- | ---------- |
 | [[Anteckningar/Introduktion till UX & UI design\|Introduktion till UX & UI design]]     | \-             | 2022-11-21 |
 | [[Anteckningar/Personas och behavioural archetype\|Personas och behavioural archetype]] | \-             | 2022-11-28 |
-| [[Anteckningar/User journey\|User journey]]                                             | \-             | 2022-12-02 |
+| [[Anteckningar/User Journey och User Flow\|User Journey och User Flow]]                 | \-             | 2022-12-02 |
 
 ## Figma
 [[Inkorg/Figma\|Figma]]
