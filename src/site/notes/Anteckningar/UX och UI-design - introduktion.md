@@ -7,7 +7,7 @@
 ## Föreläsningar
 | File                                                                                       | Sammanfattning | Skapad     |
 | ------------------------------------------------------------------------------------------ | -------------- | ---------- |
-| [[Anteckningar/Introduktion till UX & UI design\|Introduktion till UX & UI design]]     | \-             | 2022-11-21 |
+| [[Anteckningar/Introduktion till UX och UI design\|Introduktion till UX och UI design]] | \-             | 2022-11-21 |
 | [[Anteckningar/Personas och behavioural archetype\|Personas och behavioural archetype]] | \-             | 2022-11-28 |
 | [[Anteckningar/User Journey och User Flow\|User Journey och User Flow]]                 | \-             | 2022-12-02 |
 
