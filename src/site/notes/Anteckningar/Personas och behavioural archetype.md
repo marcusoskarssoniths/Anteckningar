@@ -3,7 +3,7 @@
 ---
 
 # Kurs: [[Anteckningar/UX och UI-design - introduktion\|UX och UI-design - introduktion]]
-# Föreläsning x om Personas och behavioural archetype [[2022-11-28\|2022-11-28]]
+# Föreläsning 3 om Personas och behavioural archetype [[2022-11-28\|2022-11-28]]
 ---
 ## Personas
 Är en fiktiv beskrivning av en användargrupp
