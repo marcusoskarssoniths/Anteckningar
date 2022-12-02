@@ -22,4 +22,4 @@
 • Tacka för tiden och avsluta inspelningen
 • Ge deltagaren en belöning för deras deltagande, t.ex. ett presentkort, kaffe
 
-[[Inkorg/Manus användartest för projekt i JS\|Manus användartest för projekt i JS]]
+[[Anteckningar/Manus användartest för projekt i JS\|Manus användartest för projekt i JS]]
