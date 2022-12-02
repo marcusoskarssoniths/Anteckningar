@@ -3,7 +3,7 @@
 ---
 
 # Kurs: [[Anteckningar/UX och UI-design - introduktion\|UX och UI-design - introduktion]]
-# Föreläsning 4 om User journey [[2022-12-02\|2022-12-02]]
+# Föreläsning 4 om User Journey och User Flow [[2022-12-02\|2022-12-02]]
 ---
 ## User journey
 En visuell berättelse kring hur användaren navigerar (använder hemsidan).
