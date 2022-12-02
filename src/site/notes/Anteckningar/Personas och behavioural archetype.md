@@ -69,4 +69,4 @@ Om organisationen inte är på det klara med vem som är dess kund.
 
 
 - [ ] Genomför ett användartest på ett av mina projekt 📅 2022-12-05
-- [ ] [Kolla videos om figma](learnux.io/course/figma) 📅 2022-12-02 
+- [x] [Kolla videos om figma](learnux.io/course/figma) 📅 2022-12-02
