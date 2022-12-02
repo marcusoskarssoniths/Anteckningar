@@ -62,11 +62,11 @@ Om organisationen inte är på det klara med vem som är dess kund.
 • Tacka för tiden och avsluta inspelningen
 • Ge deltagaren en belöning för deras deltagande, t.ex. ett presentkort, kaffe
 
-[[Inkorg/Manus användartest för projekt i JS\|Manus användartest för projekt i JS]]
+[[Anteckningar/Manus användartest för projekt i JS\|Manus användartest för projekt i JS]]
 
 </div></div>
 
 
 
 - [ ] Genomför ett användartest på ett av mina projekt 📅 2022-12-05
-- [ ] [Kolla videos om Figma](learnux.io/course/figma) 📅 2022-12-02 
+- [ ] [Kolla videos om figma](learnux.io/course/figma) 📅 2022-12-02 
