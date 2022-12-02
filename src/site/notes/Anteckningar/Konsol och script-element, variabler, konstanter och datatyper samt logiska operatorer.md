@@ -14,3 +14,5 @@ JavaScripts fem vanliga datatyper
 - undefined
 
 Kortkommando för att öppna webbläsarens konsol: *ctrl* + *shift* + *k*
+
+🦥... 
