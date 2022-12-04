@@ -2,8 +2,7 @@
 {"dg-publish":true,"permalink":"/anteckningar/manus-anvaendartest-foer-projekt-i-js/"}
 ---
 
-# Manus användartest för projekt i JS
-
+# Manus
 ## Introduktion
 Hej, jag heter Marcus och är student på IT-Högskolan. Där studerar jag just nu ett tvåårigt program för att bli JavaScript-utvecklare (många jobbar med att skapa webbsidor m.m.), och under programmet läser vi också UX och UI, och det är i den kursen som jag nu har fått i uppdrag att genomföra ett användartest på ett av mina äldre projekt.
 
