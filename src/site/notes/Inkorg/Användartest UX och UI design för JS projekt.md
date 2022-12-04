@@ -15,11 +15,11 @@ Under transkribering har citat justerats så att alla fyllda pauser (öööh, hm
 
 ## Resultat
 Test-personen upplevde startsidan och idéen med webbsidan som tydlig och överskådligt. Även om hen aldrig varit på en liknande sida så fanns det likheter i layout med sidor som personen kände igen sen tidigare: "Jag brukar inte göra såna här quiz på näten men jag kände ändå igen designen på webbsidan. Den är lätt att förstå och vad man ska göra". 
-När test-personen kom till steget under scenariot när hen skulle välja antal frågor så var det tydligt att det var svårare att navigera - det tog längre tid att föra muspekaren (anm. test-personen använde datorn touch-pad för att navigera) till pilarna som kan användas för att öka på antalet valda frågor. Hen funderade högt kring var det var tänkt att man skulle trycka och konstaterade sen att det gick att skriva in antalet istället för att klicka på pilarna.
+När test-personen kom till steget under scenariot när hen skulle välja antal frågor så var det tydligt att det var svårare att navigera - det tog längre tid att föra muspekaren (anm. test-personen använde datorn touch-pad för att navigera) till pilarna som kan användas för att öka på antalet valda frågor. Hen funderade högt kring var det var tänkt att man skulle trycka och konstaterade efter ett tag att det gick att skriva in antalet frågor istället för att klicka på pilarna.
 
 Vidare var det uppenbart att test-personen förväntade sig någon form av bakåt-pil på sidan som summerar resultatet "Hur tar jag mig tillbaka till start", och "Det brukar finnas en pil". 
 
-Avslutningsvis uttryckte test-personen att statistiken visserligen var visuellt tilltalande men att den möjligen var svårförståelig (en radar-chart som visar användarens svar gentemot alla tidigare användares svar).
+Avslutningsvis uttryckte test-personen att statistiken visserligen var visuellt tilltalande men att den möjligen var svårförståelig (anm. En radar-chart som visar användarens svar gentemot alla tidigare användares svar).
 
 ## Förslag på förbättringar
 - Ändra hur man väljer antalet frågor
@@ -41,33 +41,35 @@ Avslutningsvis uttryckte test-personen att statistiken visserligen var visuellt 
 ### Har du besökt webbsidor som liknar denna?
 - Designmässigt ja, innehåll nej.
 
+---
+
 ## Appendix
 ### Anteckningar
-Tid 15.07
-Klickar på historia
-- Svårt med på pilar på välj antal frågor
+**Tid 15.07**
+#### Klickar på historia
+- Svårt med pilar för att välj antal frågor
 - Går att skriva
 
-Kommer till första frågan
+#### Kommer till första frågan
 Inga anmärkningar
 
-Andra frågan
+#### Andra frågan
 Inga anmärkningar
 
-Tredje frågan
+#### Tredje frågan
 Inga anmärkningar
 
-Efter frågorna
-Ingen tillbakaknapp!
+#### Efter frågorna
+Ingen tillbakaknapp (!)
 Oklart var man ska klicka
 Borde finnas restartknapp
 
-Tankar efter testet
+#### Tankar efter testet
 Fin statistik men kanske svår att förstå
 Borde kanske presenteras i staplar för att underlätta förståelse?
 Tillbakaknappen
 Tydligt när appen laddar
 
-Avslut
-15:18
+#### Avslut
+**Tid 15:18**
 Vill ta del av slutresultat
