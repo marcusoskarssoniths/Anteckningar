@@ -2,6 +2,7 @@
 {"dg-publish":true,"permalink":"/anteckningar/manus-anvaendartest-foer-projekt-i-js/"}
 ---
 
+# Manus användartest för projekt i JS
 
 ## Introduktion
 Hej, jag heter Marcus och är student på IT-Högskolan. Där studerar jag just nu ett tvåårigt program för att bli JavaScript-utvecklare (många jobbar med att skapa webbsidor m.m.), och under programmet läser vi också UX och UI, och det är i den kursen som jag nu har fått i uppdrag att genomföra ett användartest på ett av mina äldre projekt.
@@ -27,4 +28,4 @@ Spela en omgång av frågespelet, med kategorin historia. Svara på tre frågor 
 - Vill den ta del av resultatet?
 - Tacka för tiden och stopp inspelningen
 
-[[Inkorg/Användartest UX och UI design för JS projekt\|Användartest UX och UI design för JS projekt]]
+[[Inkorg/Rapport Användartest UX och UI design för JS projekt\|Rapport Användartest UX och UI design för JS projekt]]
