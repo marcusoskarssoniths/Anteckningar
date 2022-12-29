@@ -5,11 +5,13 @@
 
 # UX och UI-design
 ## Föreläsningar
-| File                                                                                       | Sammanfattning | Skapad     |
-| ------------------------------------------------------------------------------------------ | -------------- | ---------- |
-| [[Anteckningar/Introduktion till UX och UI design\|Introduktion till UX och UI design]] | \-             | 2022-11-21 |
-| [[Anteckningar/Personas och behavioural archetype\|Personas och behavioural archetype]] | \-             | 2022-11-28 |
-| [[Anteckningar/User Journey och User Flow\|User Journey och User Flow]]                 | \-             | 2022-12-02 |
+| File                                                                                         | Sammanfattning | Skapad     |
+| -------------------------------------------------------------------------------------------- | -------------- | ---------- |
+| [[Anteckningar/Introduktion till UX och UI design\|Introduktion till UX och UI design]]   | \-             | 2022-11-21 |
+| [[Anteckningar/Personas och behavioural archetype\|Personas och behavioural archetype]]   | \-             | 2022-11-28 |
+| [[Anteckningar/User Journey och User Flow\|User Journey och User Flow]]                   | \-             | 2022-12-02 |
+| [[Inkorg/User flow, wireframes och eye tracking\|User flow, wireframes och eye tracking]] | \-             | 2022-12-05 |
+| [[Inkorg/UI och Figma\|UI och Figma]]                                                     | \-             | 2022-12-12 |
 
 ## Figma
 [[Inkorg/Figma\|Figma]]
@@ -19,9 +21,3 @@
 
 ## Projekt
 [dyod - se live](http://studentiths.se/marcus-oskarsson/hackaton/)
-
-## Reflektioner
-### Projektet
-### Vad kan jag?
-### Vad behöver jag repetera?
-### Vad vill jag fortsätta lära mig om?
