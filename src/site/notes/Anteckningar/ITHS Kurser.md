@@ -5,8 +5,12 @@
 
 # Kurser
 ## Pågående kurser
-[[Anteckningar/UX och UI-design - introduktion\|UX och UI-design - introduktion]]
-
+[[Inkorg/Javascript med ramverk\|Javascript med ramverk]]
+[[Inkorg/Agil utveckling\|Agil utveckling]]
 ## Avslutade kurser
+[[Anteckningar/UX och UI-design - introduktion\|UX och UI-design - introduktion]]
 [[Anteckningar/JavaScript introduktion\|JavaScript introduktion]]
 [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
+
+## Övrigt
+[[Inkorg/Git\|Git]]
