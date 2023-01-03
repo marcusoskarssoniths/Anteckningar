@@ -7,7 +7,13 @@
 
 Ett versionshanteringssystem är program som håller koll på förändringar i koden (eller filer, och eller foldrar). De sparar också en del metadata för att hålla koll på vem som gjort en viss förändring och när förändringen gjordes.
 
-
+## Config
+För att sätta användarnamn och email samt deafult branch för dina commits
+```bash
+git config --global user.name "John Doe"
+git config --global user.email John.Doe@unknown.cc
+git config --global init.defaultbranch main
+```
 ## Kommandon
 **git init** Skapar en ny git-repository. 
 **git add** Lägger till de filer som ska tas med i nästa commit (nästa ögonblicksbild av koden)
@@ -28,6 +34,9 @@ Skillnaden mellan att använda **git fetch branchName** och **git pull** är att
 
 **git stash** Sparar undan ändringar och återgår till senaste
 **git stash pop** Tar tillbaka ändringar som stashats.
+
+För att uppdatera den lokala listan med remot-branches så kan man skriva:
+**git remote update origin --prune**
 
 Kolla upp mer om *git bisect*
 
