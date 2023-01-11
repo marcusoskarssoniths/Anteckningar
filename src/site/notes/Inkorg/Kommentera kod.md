@@ -72,7 +72,7 @@ if (variable !== null) {
 Snyggt med template literal 
 
 Tänker att denna kan vara intressant om du tänker jobba vidare med projektet:
-https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API
+[https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API](https://developer.mozilla.org/en-US/docs/Web/API/Geolocation_API)
 För att hämta longitud och latitud från webbläsaren.
 
 Och generellt tycker jag du har delat upp i bra funktioner med namn som man förstår vad de gör, och samma sak med många variabelnamn.
