@@ -49,14 +49,15 @@ Tipsar om att man kan kolla om det är ett värde bara genom att skriva:
 if (variabel) {
 	// om variabel har ett "sant" värde
 }
+// samma som:
+if (variabel !== null) {
+	// tror jag, eller den betyder samtidigt variabel !== undefined, !== "", !== 0
+}
 // eller tvärtom, om det inte har ett värde:
 if (!variabel) {
 	// kod
 }
-// samma som:
-if (variable !== null) {
-	// tror jag
-}
+
 ```
 
 [Rad 155](https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L155)
