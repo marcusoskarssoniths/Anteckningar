@@ -15,37 +15,28 @@ setInterval(clock, ONE_SECOND);
 Känns som att Västtrafiks API var lite mer avancerad än den enkla som jag använde, coolt att få skicka med headers och hämta en token för att sen få tillgång till de andra endpointsen!
 
 [Rad 83](https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L83)
-Tror den här koden kan skrivas mer DRY, till exempel genom att bryta ut i funktioner:
+Eftersom du har ett table där varje rad är uppbygg på samma sätt så går det att sätta deras värden i en loop, om man istället hämtar alla rader (utom första) i din table.
 ```js
-        .then((result) => {
-          console.log("fetchData Resultat", result);
-          departureboard = result.DepartureBoard.Departure;
-          console.log("Västtrafik", departureboard);
+		.then((result) => {
+			console.log("fetchData Resultat", result);
+			departureboard = result.DepartureBoard.Departure;
+			console.log("Västtrafik", departureboard);
 
-          fn1(departureboard)
-          vtStationp.textContent = departureboard[0].stop;
+			let table = document.querySelectorAll("#vt-dp-table tr:not(:first-of-type")table.forEach(function(row) {
+				let td1 = row.querySelector("td div")
+				let [ td2, td3 ] = [...row.querySelectorAll("td:not(:first-of-type)")]
+				td1.textContent = departureboard[1].sname
+				td1.style.backgroundcolor = departureboard[1].bgColor;
+				td1.style.color = departureboard[1].fgColor;
+				td2.textContent = departureboard[1].direction;
+				td3.textContent = departureboard[1].rtTime;
+			})
+		vtStationp.textContent = departureboard[0].stop;
           
           //the div-containern with departures is only displayed when the fetch is finished with the code below
-          document.querySelector("#vtbox").style.display = "block";
-        });
-    });
-}
-function fn1(departureboard) {
-  let table = document.querySelectorAll("#vt-dp-table tr:not(:first-of-type")
-  table.forEach(function(row) {
-    let [td1, td2, td3] = xyy(row)
-    td1.textContent = departureboard[1].sname
-    td1.style.backgroundcolor = departureboard[1].bgColor;
-    td1.style.color = departureboard[1].fgColor;
-    td2.textContent = departureboard[1].direction;
-    td3.textContent = departureboard[1].rtTime;
-  })
-}
-
-function fn2(row) {
-  let td1 = row.querySelector("td div")
-  let [ td2, td3 ] = [...row.querySelectorAll("td:not(:first-of-type)")]
-  return [td1, td2, td3]
+			document.querySelector("#vtbox").style.display = "block";
+		});
+	});
 }
 ```
 
