@@ -4,17 +4,17 @@
 
 
 
-https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L16
+[Rad 16](https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L16)
 Nu är det ju enkelt att förstå men ofta kan man gå ett steg extra och lägga exempelvis tid i en egen variabel som heter något förklarande så att man direkt ser vad siffrorna syftar på, till exempel:
 ```js
 const ONE_SECOND = 1000
 setInterval(clock, ONE_SECOND);
 ```
 
-https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L58
+[Rad 58](https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L58)
 Känns som att Västtrafiks API var lite mer avancerad än den enkla som jag använde, coolt att få skicka med headers och hämta en token för att sen få tillgång till de andra endpointsen!
 
-https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L83
+[Rad 83](https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L83)
 Tror den här koden kan skrivas mer DRY, till exempel genom att bryta ut i funktioner:
 ```js
         .then((result) => {
@@ -49,10 +49,10 @@ function fn2(row) {
 }
 ```
 
-https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L111
+[Rad 111](https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L111)
 Sa det redan under redovisningsdagen att jag tyckte det var smart att uppdatera innehållet och snodde det ju sen till mitt eget projekt! Coolt :)
 
-https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L144
+[Rad 144](https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L144)
 Tipsar om att man kan kolla om det är ett värde bara genom att skriva:
 ```js
 if (variabel) {
@@ -68,7 +68,7 @@ if (variable !== null) {
 }
 ```
 
-https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L155
+[Rad 155](https://github.com/Aurorien/Farstun/blob/0e78cfd37e594d9f527201fb68e86c8a145bf6de/index.js#L155)
 Snyggt med template literal 
 
 Tänker att denna kan vara intressant om du tänker jobba vidare med projektet:
