@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/anteckningar/iths-kurser/","tags":"gardenEntry"}
+{"dg-publish":true,"permalink":"/anteckningar/iths-kurser/","tags":["gardenEntry"]}
 ---
 
 
@@ -13,4 +13,4 @@
 [[Anteckningar/HTML och CSS introduktion\|HTML och CSS introduktion]]
 
 ## Övrigt
-[[Inkorg/Git\|Git]]
+[[Anteckningar/Git\|Git]]
