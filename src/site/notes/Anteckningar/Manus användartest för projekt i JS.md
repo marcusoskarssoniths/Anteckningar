@@ -27,4 +27,4 @@ Spela en omgång av frågespelet, med kategorin historia. Svara på tre frågor 
 - Vill den ta del av resultatet?
 - Tacka för tiden och stopp inspelningen
 
-[[Inkorg/Rapport Användartest UX och UI design för JS projekt\|Rapport Användartest UX och UI design för JS projekt]]
+[[Anteckningar/Rapport Användartest UX och UI design för JS projekt\|Rapport Användartest UX och UI design för JS projekt]]
