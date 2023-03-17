@@ -38,6 +38,23 @@ Skillnaden mellan att använda **git fetch branchName** och **git pull** är att
 För att uppdatera den lokala listan med remot-branches så kan man skriva:
 **git remote update origin --prune**
 
+
+För att undvika merge commits kan man skriva `git pull --rebase` istället för `git pull`. Man kan även använda `pull.rebase`-inställningen i Git, så att `git pull`-kommandot alltid motsvarar `git pull --rebase`.
+
+## tagg
+Man kan lägga till taggar till commits
+Man börjar med att commit'a som vanligt och sen gör man ytterligare en commit med:
+```
+git tag -a v1.0.0 -m "meddelande"
+git push origin --tags
+```
+
+## Checkout remote branch locally
+>The syntax for making git checkout "remote-ready" is rather easy: simply add the "--track" flag and the remote branch's ref.
+```
+git checkout --track origin/newsletter
+```
+
 Kolla upp mer om *git bisect*
 
 
@@ -57,3 +74,21 @@ gitGraph
    commit
    commit
 ```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
